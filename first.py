@@ -1,0 +1,1 @@
+print('Hello from Raipur! Environment setup is successful.')
